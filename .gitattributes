@@ -6,3 +6,7 @@
 
 # Preserve whitespace in original upstream licensing texts.
 licenses/npm-runtime-notices.txt whitespace=-blank-at-eol
+dist/** linguist-generated
+build/** linguist-generated
+coverage/** linguist-generated
+search/index.json linguist-generated
